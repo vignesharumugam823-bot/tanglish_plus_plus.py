@@ -28,3 +28,4 @@ All core constructs (conditionals, loops, functions, imports) match Python 3 spe
 
 ```bash
 python tanglish_plus_plus.py your_script.t
+```
